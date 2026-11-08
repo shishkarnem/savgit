@@ -1,0 +1,10 @@
+{
+  "name": "SAV AI — Платформа ИИ-агентов и автоматизации бизнеса",
+  "description": "Продающие ИИ-ассистенты, нейро-сотрудники для отделов продаж и комплексная автоматизация бизнес-процессов любого масштаба.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

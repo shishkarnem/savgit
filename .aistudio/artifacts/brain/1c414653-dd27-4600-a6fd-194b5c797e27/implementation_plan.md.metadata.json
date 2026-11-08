@@ -1,0 +1,6 @@
+{
+  "summary": "План полной миграции экосистемы с SQLite на PostgreSQL BD ProTalk (sav): рефакторинг клиента интеграций (protalkDb с обратной совместимостью), полное удаление зависимости sql.js из бэкенда, очистка упоминаний SQLite во всех 100+ файлах и UI-страницах, а также массовое обновление ссылок на изображения с https://filestore.pro-talk.ru/ на https://file.pro-talk.ru/tgf/ в базе данных.",
+  "updatedAt": "2026-11-06T15:17:45.711054212Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
